@@ -1,0 +1,31 @@
+
+button {
+    width: 120px;
+    height: 120px;
+    font-size: 50px;
+}
+.botoes{
+    width: 550px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+
+
+    border: 1px solid black;
+
+}
+input {
+    width: 500px;
+    height: 100px;
+    text-align: right;
+    font-size: 50px;
+    
+}
+
+main {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
